@@ -39,10 +39,6 @@ h2 {
   border-bottom: 8px solid hsl(45deg, 100%, 40%);
 }
 
-p {
-  font-size: 1.25rem;
-}
-
 header,
 main {
   padding-top: 48px;
@@ -77,6 +73,10 @@ main {
 
 .intro-chunk {
   max-width: 360px;
+}
+
+.intro-chunk p {
+  font-size: 1.25rem;
 }
 
 .card {
